@@ -7,9 +7,9 @@ let program solve. It also has GUI.
 2. Run sudoku.py
 
 # Key Controll Guide
-Space - solve sudoku automatcally
-Esc - quit program
-number - type number on selected cell
-enter - check typed number is valid answer
-delete - delete typed number on selected cell
+Space - solve sudoku automatcally <br/>
+Esc - quit program<br/>
+number - type number on selected cell<br/>
+enter - check typed number is valid answer<br/>
+delete - delete typed number on selected cell<br/>
 
